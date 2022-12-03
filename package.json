@@ -29,5 +29,11 @@
   "peerDependencies": {
     "eslint": ">=7"
   },
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "url": "git@github.com:AbdulRehmanMehar/eslint-plugin-eslint-file-description.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
 }
