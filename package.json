@@ -1,5 +1,5 @@
 {
-  "name": "eslint-plugin-eslint-file-description",
+  "name": "@abdulrehmanmehar/eslint-plugin-eslint-file-description",
   "version": "0.0.1",
   "description": "A plugin to lint for a descriptive comment that tells what's the purpose of the file",
   "keywords": [
@@ -31,9 +31,16 @@
   },
   "license": "ISC",
   "repository": {
-    "url": "git@github.com:AbdulRehmanMehar/eslint-plugin-eslint-file-description.git"
+    "url": "git+ssh://git@github.com/AbdulRehmanMehar/eslint-plugin-eslint-file-description.git"
   },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
+
+  "bugs": {
+    "url": "https://github.com/AbdulRehmanMehar/eslint-plugin-eslint-file-description/issues"
+  },
+  "homepage": "https://github.com/AbdulRehmanMehar/eslint-plugin-eslint-file-description#readme",
+  "directories": {
+    "doc": "docs",
+    "lib": "lib",
+    "test": "tests"
   }
 }
