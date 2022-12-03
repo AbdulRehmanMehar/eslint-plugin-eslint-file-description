@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-eslint-file-description",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A plugin to lint for a descriptive comment that tells what's the purpose of the file",
   "keywords": [
     "eslint",
